@@ -1,0 +1,21 @@
+C:\Test_Naveen\Services\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Test_Naveen\Services\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Test_Naveen\Services\BusinessLayer\bin\Debug\Models.dll
+C:\Test_Naveen\Services\BusinessLayer\bin\Debug\Models.pdb
+C:\Test_Naveen\Services\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Test_Naveen\Services\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Test_Naveen\Services\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\BusinessLayer\bin\Debug\Models.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\BusinessLayer\bin\Debug\Models.pdb
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\BusinessLayer\obj\Debug\BusinessLayer.pdb
+H:\Services\Services\BusinessLayer\bin\Debug\BusinessLayer.dll
+H:\Services\Services\BusinessLayer\bin\Debug\BusinessLayer.pdb
+H:\Services\Services\BusinessLayer\bin\Debug\Models.dll
+H:\Services\Services\BusinessLayer\bin\Debug\Models.pdb
+H:\Services\Services\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+H:\Services\Services\BusinessLayer\obj\Debug\BusinessLayer.dll
+H:\Services\Services\BusinessLayer\obj\Debug\BusinessLayer.pdb

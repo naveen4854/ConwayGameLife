@@ -1,0 +1,95 @@
+C:\Test_Naveen\Services\Services\bin\Services.dll.config
+C:\Test_Naveen\Services\Services\bin\Services.dll
+C:\Test_Naveen\Services\Services\bin\Services.pdb
+C:\Test_Naveen\Services\Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Test_Naveen\Services\Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Test_Naveen\Services\Services\bin\Newtonsoft.Json.dll
+C:\Test_Naveen\Services\Services\bin\System.Net.Http.Formatting.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.Helpers.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.Http.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.Http.WebHost.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.Mvc.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.Razor.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.WebPages.Deployment.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.WebPages.dll
+C:\Test_Naveen\Services\Services\bin\System.Web.WebPages.Razor.dll
+C:\Test_Naveen\Services\Services\bin\Newtonsoft.Json.xml
+C:\Test_Naveen\Services\Services\bin\System.Net.Http.Formatting.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.Helpers.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.Http.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.Http.WebHost.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.Mvc.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.Razor.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.WebPages.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.WebPages.Deployment.xml
+C:\Test_Naveen\Services\Services\bin\System.Web.WebPages.Razor.xml
+C:\Test_Naveen\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Test_Naveen\Services\Services\obj\Debug\Services.dll
+C:\Test_Naveen\Services\Services\obj\Debug\Services.pdb
+C:\Test_Naveen\Services\Services\bin\BusinessLayer.dll
+C:\Test_Naveen\Services\Services\bin\Models.dll
+C:\Test_Naveen\Services\Services\bin\BusinessLayer.pdb
+C:\Test_Naveen\Services\Services\bin\Models.pdb
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Services.dll.config
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Services.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Services.pdb
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\BusinessLayer.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Models.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Newtonsoft.Json.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Net.Http.Formatting.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Helpers.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Http.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Http.WebHost.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Mvc.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Razor.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.WebPages.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\BusinessLayer.pdb
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Models.pdb
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\Newtonsoft.Json.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Net.Http.Formatting.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Http.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Http.WebHost.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Helpers.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Mvc.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.Razor.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.WebPages.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\obj\Debug\Services.dll
+C:\Users\ramachandraiah.naini\Downloads\New folder\Services\Services\obj\Debug\Services.pdb
+H:\Services\Services\Services\bin\Services.dll
+H:\Services\Services\Services\bin\Services.pdb
+H:\Services\Services\Services\bin\BusinessLayer.dll
+H:\Services\Services\Services\bin\Microsoft.Web.Infrastructure.dll
+H:\Services\Services\Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\Services\Services\Services\bin\Models.dll
+H:\Services\Services\Services\bin\Newtonsoft.Json.dll
+H:\Services\Services\Services\bin\System.Net.Http.Formatting.dll
+H:\Services\Services\Services\bin\System.Web.Helpers.dll
+H:\Services\Services\Services\bin\System.Web.Http.dll
+H:\Services\Services\Services\bin\System.Web.Http.WebHost.dll
+H:\Services\Services\Services\bin\System.Web.Mvc.dll
+H:\Services\Services\Services\bin\System.Web.Razor.dll
+H:\Services\Services\Services\bin\System.Web.WebPages.Deployment.dll
+H:\Services\Services\Services\bin\System.Web.WebPages.dll
+H:\Services\Services\Services\bin\System.Web.WebPages.Razor.dll
+H:\Services\Services\Services\bin\BusinessLayer.pdb
+H:\Services\Services\Services\bin\Models.pdb
+H:\Services\Services\Services\bin\Newtonsoft.Json.xml
+H:\Services\Services\Services\bin\System.Net.Http.Formatting.xml
+H:\Services\Services\Services\bin\System.Web.Http.xml
+H:\Services\Services\Services\bin\System.Web.Http.WebHost.xml
+H:\Services\Services\Services\bin\System.Web.Helpers.xml
+H:\Services\Services\Services\bin\System.Web.Mvc.xml
+H:\Services\Services\Services\bin\System.Web.Razor.xml
+H:\Services\Services\Services\bin\System.Web.WebPages.xml
+H:\Services\Services\Services\bin\System.Web.WebPages.Deployment.xml
+H:\Services\Services\Services\bin\System.Web.WebPages.Razor.xml
+H:\Services\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+H:\Services\Services\Services\obj\Debug\Services.dll
+H:\Services\Services\Services\obj\Debug\Services.pdb

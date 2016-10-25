@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        table {
+            width: 100%;
+            /*border: 1px solid black;*/
+        }
+
+            table tr td {
+                height: 50px;
+                border: 1px solid black;
+            }
+
+        .bgBlack {
+            background: rgb(102, 255, 255);
+        }
+
+        button {
+            margin: 10px;
+            height: 30px;
+            width: 80px;
+        }
+
+        .backgroundRed {
+            background: red;
+        }
+    </style>
+    <script src="Scripts/jquery-1.12.2.min.js"></script>
+    <script src="Scripts/dataContext.js"></script>
+    <script src="Scripts/dataService.js"></script>
+    <script>
+        var pageMode = 1; //1: drawMode 2:simulateMode
+        $(document).ready(function () {
+            $('#CreateGrid').on('click', function () {
+                pageMode = 1;
+                if (!(!isNaN($('#rows').val()) && parseInt($('#rows').val()) > 0 && !isNaN($('#columns').val()) && parseInt($('#columns').val()) > 0))
+                    return;
+                var rows = parseInt($('#rows').val());
+                var columns = parseInt($('#columns').val());
+                createGrid(rows, columns);
+            });
+            $('#simluateConway').on('click', function () {
+                pageMode = 2;
+                $('#simluateConway').prop('disabled', true);
+                var grid = getGridInfo();
+                $('#conwayGrid tr td').removeClass('bgBlack');
+                simulateNext(grid);
+            })
+        });
+
+        function simulateNext(grid) {
+            getNextGen(grid).then(function (res) {
+                $.each(res.Rows, function (x, row) {
+                    $.each(row.Cells, function (y, column) {
+                        if (column.isAlive)
+                            $($('#conwayGrid tr').eq(x)).find('td').eq(y).addClass('bgBlack');
+                    });
+                });
+                setTimeout(function () {
+                    if (pageMode == 2) {
+                        var grid = getGridInfo();
+                        $('#conwayGrid tr td').removeClass('bgBlack');
+                        simulateNext(grid);
+                    }else
+                        $('#simluateConway').prop('disabled', false);
+                }, 1000);
+            });
+        }
+        function createGrid(rows, columns) {
+            var table = document.getElementById("conwayGrid");
+            $(table).html('');
+            for (var i = 0; i < rows; i++) {
+                var row = table.insertRow(i);
+                for (var j = 0; j < columns; j++) {
+                    var cell1 = row.insertCell(j);
+                }
+            }
+
+            $('#conwayGrid tr td').click(function () {
+                if (pageMode == 1)
+                    $(this).toggleClass('bgBlack');
+            });
+            $('#simluateConway').show();
+        }
+
+        function getGridInfo() {
+            var rowArr = new Array;
+            $('#conwayGrid tr').each(function (index) {
+                rowArr.push(getRowInfo(this, index));
+            });
+            return { Rows: rowArr };
+        }
+        function getRowInfo(row, index) {
+            var cellArr = new Array;
+            $(row).find('td').each(function () {
+                cellArr.push({ isAlive: $(this).hasClass('bgBlack') });
+            });
+            return { Cells: cellArr };
+        }
+      
+    </script>
+    <title></title>
+</head>
+<body>
+    <div id="divtoBlink" align="center">
+        <h1>Conway's Game of Life</h1>
+
+    </div>
+    <div id="intro">
+        HI, <br /> <br />
+        Please type in the positve number (rows and columns) for the conway grid<br /><br />
+        <div>Rows   &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp<input id="rows" /></div>
+        <br />
+        <div>Columns: <input id="columns" /></div>
+        <button id="CreateGrid">Create!</button>
+    </div>
+    <div id="conwayDiv">
+        <table id="conwayGrid" style="width:100%"></table>
+    </div>
+    <div>
+        <button id="simluateConway" style="display:none">Simulate!</button>
+    </div>
+</body>
+</html>

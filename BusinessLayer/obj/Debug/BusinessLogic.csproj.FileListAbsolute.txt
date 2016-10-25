@@ -1,0 +1,14 @@
+H:\Services\Services\BusinessLayer\bin\Debug\BusinessLayer.dll
+H:\Services\Services\BusinessLayer\bin\Debug\BusinessLayer.pdb
+H:\Services\Services\BusinessLayer\bin\Debug\Models.dll
+H:\Services\Services\BusinessLayer\bin\Debug\Models.pdb
+H:\Services\Services\BusinessLayer\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+H:\Services\Services\BusinessLayer\obj\Debug\BusinessLayer.dll
+H:\Services\Services\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\kkumar\Downloads\ConwayGameLife\ConwayGameLife\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\kkumar\Downloads\ConwayGameLife\ConwayGameLife\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\kkumar\Downloads\ConwayGameLife\ConwayGameLife\BusinessLayer\bin\Debug\Models.dll
+C:\Users\kkumar\Downloads\ConwayGameLife\ConwayGameLife\BusinessLayer\bin\Debug\Models.pdb
+C:\Users\kkumar\Downloads\ConwayGameLife\ConwayGameLife\BusinessLayer\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\kkumar\Downloads\ConwayGameLife\ConwayGameLife\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\kkumar\Downloads\ConwayGameLife\ConwayGameLife\BusinessLayer\obj\Debug\BusinessLayer.pdb
